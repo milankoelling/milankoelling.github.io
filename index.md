@@ -72,7 +72,7 @@ Chen, Y. (2017). “On the Essential Characteristics of the Innovation Oriented 
 
 Hirschhorn, L., Gilmore, T. (1992). “The New Boundaries of the “Boundaryless” Company.” Harvard Business Review. 
 
-HolacracyOne, 2019. https://www.holacracy.org.
+HolacracyOne, 2019. [https://www.holacracy.org](https://www.holacracy.org).
 
 Robertson, B.J. (2015). “Holacracy: The Revolutionary Management System that Abolishes Hierarchy”. 
 
