@@ -1,4 +1,6 @@
-# **Introduction**
+![Modern Organization](Picture_Website.jpg)
+
+## **Introduction**
 “In an economy founded on innovation and change, one of the premier challenges of management is to design more flexible organizations” (Hirschhorn, Gilmore, 1992). The date of this statement underpins how long it has already been necessary to realize disruptive changes. Many different types of new structures have evolved since then. One of them is called Holacracy. “Holacracy provides a concrete framework for encoding autonomy, agility, and purpose-alignment into an organization’s DNA” (HolacracyOne, 2019)
 Already since 2008 the concept is known and public attention has increased significantly (Robertson, 2015). Nonetheless, practical examples are difficult to find. There are only a few companies that roll out Holacracy as a whole within their organization (Zappos, HolacracyOne, Premium). So, the question at this point is why the concept is presented frequently as an example of ‘a better way to organize your company’ but applied rarely. 
 Since this question is complex and includes many variables, this paper will elaborate on only one variable of this construct. Thus, the relevant research question is “From the perspective of a Traditional Organization: Which requirements are needed in order to become holacratic?” Since the capacities of the present paper are restricted, the analysis will be simplified at certain points. Each simplification will be mentioned. 
@@ -14,7 +16,7 @@ Characteristic of the practice is, then, that there are no managers leading the 
 Evidently, the concept of Holacracy is more complex than illustrated here. Nevertheless, at this point the capacity of the paper does not allow a deeper insight into the topic. 
 
 
-### **A Traditional Organization**
+## **A Traditional Organization**
 Traditional Organizations are also known as a system of “predict-and-control”, it was the most applied one over the past years (Serrini, 2018). This type of organization aims to achieve stability through up-front, determined planning. Processes are defined and must be followed strictly. Changes in processes rarely take place (Chen, 2017).
 
 Moreover, organizational charts are designed as hierarchies. A hierarchical organizational structure is characterized by two fundamental elements: the centralization of ownership and the organization of the supervision (Chen, 2017). Authority flows vertically and upward, and it is labelled by a pyramidal structure.
@@ -22,7 +24,7 @@ In hierarchical organizations, every single entity, except one, is subordinated 
 
 Noticeably, the concept of Traditional Organizations is more complex than described here, but capacities do not allow an insight of greater detail. Nevertheless, this definition is sufficient for the following part of the paper. 
 
-#### **Requirements for Traditional Organizations to become Holacratic**
+## **Requirements for Traditional Organizations to become Holacratic**
 Within the following chapter the before described definitions will be used in order to elaborate further on the research question. Summarizing the previous explained concepts, a table (see table 1) comes up. It will be the fundament for the argumentation within this chapter. 
 Serrini (2018) stated about the Traditional Organization: “Thought to realize a robust centralized control over the entire company, this model has matured in the initial 1900s and has not undergone any change over the years” (Serrini, 2018). The statement underpins the need for change within Traditional Organizations. 
 
@@ -34,7 +36,7 @@ So, as a requirement traditional ‘leaders’ must renew their perspectives, th
 
 Finally, it can be said that implementing Holacracy in a Traditional Organization depends on many factors which apparently do not have things in common. That makes it difficult in so far, as there is no ‘all in one solution’ but every organization has to find its own way to practice it. This result needs to be considered as a narrow view, since many relevant factors could not be taken into account. 
 
-##### **Conclusion & Critical Reflection**
+## **Conclusion & Critical Reflection**
 Goal of the present paper was to determine requirements which need to exist in a Traditional Organization in order to become holacratic. On the one hand, it has been found out that employees are key drivers of the transformation. On the other hand, traditional managers have to change their behaviors and attitudes towards a more collaborative approach. 
 
 Communication needs to be increased and enabled by allowing communication through all layers of the old hierarchy. Old ways of doing must be rethought, both the purpose of the organization as well as the way how people interact with each other. Another main result is that required changes are “more psychological than organizational. They are not drawn on a company’s organizational chart but in the minds of its managers and employees“ (Hirschhorn, Gilmore, 1992).
@@ -43,7 +45,7 @@ An answer for the question why Holacracy is used rarely can be given partly. As 
 
 Nevertheless, it must be said that the present paper was unambiguously restricted in capacity. Many things like interruption of daily business, change processes and costs could not be considered and thus future researchers can continue their research towards a more holistic picture that takes more variables into account. 
 
-###### Reference List
+## Reference List
 Barry, T.E. (2012). “The Development of the Hierarchy of Effects: An Historical Perspective”. 10: 1-2, 251-295.
 
 Bernstein, E., Bunch, J., Canner, N., Lee, M. (2016). “Beyond the Holacracy Hype“. Harvard Business Review. 5-15.
@@ -58,5 +60,4 @@ Robertson, B.J. (2015). “Holacracy: The Revolutionary Management System that A
 
 Serrini, L. (2018). “Rethinking organizations: the Holacracy practice: „An empirical analysis to assess the performability of the practice for small- medium and large-sized companies: ARCA and Zappos cases““
 
-![Modern Organization](Picture_Website.jpg)
 
