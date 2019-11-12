@@ -1,19 +1,29 @@
-Holacracy – a Concept Used Frequently but Applied Rarely
 ![Modern Organization](Picture_Website.jpg)
 ## Table of Contents
 1 INTRODUCTION
+
 2 HOLACRACY
+
 3 A TRADITIONAL ORGANIZATION
+
 4 REQUIREMENTS FOR TRADITIONAL ORGANIZATIONS TO BECOME HOLACRATIC
+
 5 CONCLUSION & CRITICAL REFLECTION
+
 6 REFERENCE LIST
 
+
 ## **1 Introduction**
+
 “In an economy founded on innovation and change, one of the premier challenges of management is to design more flexible organizations” (Hirschhorn, Gilmore, 1992). The date of this statement underpins how long it has already been necessary to realize disruptive changes. Many different types of new structures have evolved since then. One of them is called Holacracy. “Holacracy provides a concrete framework for encoding autonomy, agility, and purpose-alignment into an organization’s DNA” (HolacracyOne, 2019)
+
 Already since 2008 the concept is known and public attention has increased significantly (Robertson, 2015). Nonetheless, practical examples are difficult to find. There are only a few companies that roll out Holacracy as a whole within their organization (Zappos, HolacracyOne, Premium). So, the question at this point is why the concept is presented frequently as an example of ‘a better way to organize your company’ but applied rarely. 
 Since this question is complex and includes many variables, this paper will elaborate on only one variable of this construct. Thus, the relevant research question is “From the perspective of a Traditional Organization: Which requirements are needed in order to become holacratic?” Since the capacities of the present paper are restricted, the analysis will be simplified at certain points. Each simplification will be mentioned. 
+
 In the beginning, the concept of Holacracy will be defined. Some characteristics of this organizational structures will be mentioned in order to draw conclusions later on. Afterwards, an example of a Traditional Company will be visualized and elaborated. Afterwards, the two elaborated concepts of Holacracy and the Traditional Company will be combined. The purpose is to find out which conditions the Traditional Company has to fulfil to be organized as a Holacracy. Finally, the conclusion will summarize all points that will be made within the paper. 
+
 ## **2 Holacracy**
+
 Holacracy is a concept shaped mainly by Brian J. Robertson (2015). The quintessence of Holacracy is a purpose-driven, self-managing organization, which is able to maintain strength and innovation at a high level (Robertson, 2015). The objective was to create a more agile and responsive way to manage an organization, which is able to capture innovation from inside, enacting an effective structure that supports quick decisions (Bernstein, et al., 2016). Additionally, all employees would have a central and decisive role within the organization (HolacracyOne, 2019). Self-managing teams are organized and grouped into circles. For that reason, the 
 
 Holacracy structure looks like a set of nested circles, each connected and part of a larger circle without being subjugated by those above.
