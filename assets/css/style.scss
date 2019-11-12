@@ -1,5 +1,9 @@
 --- 
 --- 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"; 
+@import url('https://fonts.googleapis.com/css?family=Jomolhari&display=swap');
 
-body {text-align: justify}
+
+body {font-family: 'Jomolhari', serif;
+    text-align: justify}
+    
